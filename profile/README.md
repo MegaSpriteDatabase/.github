@@ -1,3 +1,3 @@
-# Sprite Database
+# Mega Sprite Database
 
 Opensource, pixel art collab
